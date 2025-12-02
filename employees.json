@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Rohith Amalan James",
+    "email": "rohithamalan1974@gmail.com",
+    "phone": "9176251176",
+    "role": "Software Engineer",
+    "department": "IT",
+    "salary": 60000,
+    "date_of_joining": "2004-09-15",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Vigneshraj",
+    "email": "vigeneshraj@gamil.com",
+    "phone": "9176256397",
+    "role": "Backend Developer",
+    "department": "Development",
+    "salary": 60000,
+    "date_of_joining": "2004-09-15",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "name": "vignesh N",
+    "email": "vicky@gmail.com",
+    "phone": "9176251173",
+    "role": "Software Engineer",
+    "department": "Operations",
+    "salary": 60000,
+    "date_of_joining": "2005-09-05",
+    "status": "Active"
+  }
+]
